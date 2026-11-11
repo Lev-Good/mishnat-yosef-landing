@@ -1,0 +1,6 @@
+{
+  "name": "מוסיף למשנת - דף נחיתה לתוסף כרום",
+  "description": "דף נחיתה רשמי לתוסף הכרום 'מוסיף למשנת' - חווית קנייה מהירה, זיהוי מוצרים קבועים וחיסכון באתר משנת יוסף",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
